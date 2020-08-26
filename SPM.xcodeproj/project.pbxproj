@@ -24,6 +24,7 @@
 		01E4E56124F625B000EDD1D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01E4E56324F625B000EDD1D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01E4E56A24F6261300EDD1D8 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		01E4E56C24F62A7400EDD1D8 /* MyLibrary */ = {isa = PBXFileReference; lastKnownFileType = text; path = MyLibrary; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		01E4E54924F625AC00EDD1D8 = {
 			isa = PBXGroup;
 			children = (
+				01E4E56C24F62A7400EDD1D8 /* MyLibrary */,
 				01E4E55424F625AC00EDD1D8 /* SPM */,
 				01E4E55324F625AC00EDD1D8 /* Products */,
 			);
